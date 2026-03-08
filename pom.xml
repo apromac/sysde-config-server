@@ -36,7 +36,7 @@
 	</properties>
 
 	<dependencies>
-		<!-- STATER SPRING CLOUD CONFIG -->
+		<!-- STATER SPRING CLOUD CONFIG SERVER -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-config-server</artifactId>
